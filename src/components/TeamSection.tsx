@@ -25,11 +25,11 @@ const TeamSection = () => {
     },
     {
       name: "Hamlet Muñoz",
-      role: "Experto Senior en Big Data",
-      specialization: "Matemático UC. Diseño tecnológico y arquitectura de datos",
-      experience: "+15 años en arquitectura de datos empresariales",
-      certifications: ["AWS Solutions Architect", "Google Cloud Professional", "Data Sicence - R - Python"],
-      description: "Diseña la arquitectura técnica del piloto de IA, define los flujos de datos (ETL) y supervisa la correcta implementación técnica.",
+      role: "Consultor Especialista en Datos",
+      specialization: "Estadístico y Científico de Datos UC. Diseño, desarrollo e inteligencia en relación a datos",
+      experience: "(ex-Deloitte) +15 años transformando datos en valor para la gran empresa local, internacional e instituciones",
+      certifications: ["HarvardX: Data Science", "UC: Data Science", "AWS: IAM", "Yonsei: TCPIP"],
+      description: "Define y supervisa la arquitectura de la solución, flujo de datos (pipelines, ETLs), integración e implementación técnica. End-to-end",
       photo: "/images/team/a46b0bd0-8242-4545-bd4e-434a7b629fdb.png",
       email: "hmunoz@expertpro.cl"
     },
