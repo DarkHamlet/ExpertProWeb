@@ -20,7 +20,7 @@ const TeamSection = () => {
       experience: "+18 años en gestión de proyectos complejos",
       certifications: ["Agile Certified", "Scrum Master", "UAI: People Managment"],
       description: "Project Manager que coordina el equipo interno y gestiona la comunicación diaria con el cliente, asegurando que los entregables se cumplan en tiempo y forma.",
-      photo: "/images/team/086e00d5-f5d6-4a8f-9ca4-f54e25460f10.png",
+      photo: "/images/team/mamilams.png",
       email: "mkoscica@expertpro.cl"
     },
     {
@@ -30,7 +30,7 @@ const TeamSection = () => {
       experience: "(ex-Deloitte) +15 años transformando datos en valor para la gran empresa local, internacional e instituciones",
       certifications: ["HarvardX: Data Science", "UC: Data Science", "AWS: IAM", "Yonsei: TCPIP"],
       description: "Define y supervisa la arquitectura de la solución, flujo de datos (pipelines, ETLs), integración e implementación técnica. End-to-end",
-      photo: "/images/team/a46b0bd0-8242-4545-bd4e-434a7b629fdb.png",
+      photo: "/images/team/ham.png",
       email: "hmunoz@expertpro.cl"
     },
     {
@@ -40,7 +40,7 @@ const TeamSection = () => {
       experience: "+12 años en automatización de procesos",
       certifications: ["Blue Prism: Certified Developer", "BCI: Bank Risk sps", "Scrum FPC™"],
       description: "Asesor en desafíos técnicos complejos, busca diseñar y entregar soluciones que resuelvan el problema de negocio con escalabilidad y robustez. Estuvo a cargo de la gobernanza y estrategia de implementación de automatización en Scotiabank International Banking",
-      photo: "images/team/2f10b86b-723d-4d1d-84a7-d3e72724fcbe.png",
+      photo: "images/team/josss.png",
       email: "jgleiser@expertpro.cl"
     },
     {
@@ -60,7 +60,7 @@ const TeamSection = () => {
       experience: "+15 años integrando sistemas empresariales",
       certifications: ["ZAPcademy: SAP HANA, SAP Fiori models, BTP No Code Low Code","Logali: SAP BTP Backend Developer, SAP integration Suite"],
       description: "Gestión e integración con sistemas existentes del cliente (ERPs, CRMs), asegurando un flujo de datos bidireccional y eficiente.",
-      photo: "/images/team/ca491aa2-f179-4232-872c-34d96cd523e8.png",
+      photo: "/images/team/wolfi.png",
       email: "cbecar@expertpro.cl"
     },
     {
