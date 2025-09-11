@@ -34,13 +34,13 @@ const TeamSection = () => {
       email: "hmunoz@expertpro.cl"
     },
     {
-      name: "José Gleiser",
+      name: "Jose Gleiser",
       role: "Transformación y Automatización de Procesos",
-      specialization: "M.Sc. UC en IT. Mentoría técnica y quality assurance",
-      experience: "+20 años en big data (ex Scotiabank)",
-      certifications: ["Databricks Certified", "Hadoop Expert"],
-      description: "Asesor en desafíos técnicos complejos, busca diseñar y entregar soluciones que resuelvan el problema de negocio con escalabilidad y robustez. Estuvo a cargo de impelmentar automatización en Scotiabank Global)",
-      photo: "/images/team/2f10b86b-723d-4d1d-84a7-d3e72724fcbe.png",
+      specialization: "M.Sc. UC en IT y Gestión. Mentoría técnica y arquitectura de solución",
+      experience: "+12 años en automatización de procesos",
+      certifications: [],
+      description: "Asesor en desafíos técnicos complejos, busca diseñar y entregar soluciones que resuelvan el problema de negocio con escalabilidad y robustez. Estuvo a cargo de la gobernanza y estrategia de implementación de automatización en Scotiabank International Banking",
+      photo: "images/team/2f10b86b-723d-4d1d-84a7-d3e72724fcbe.png",
       email: "jgleiser@expertpro.cl"
     },
     {
