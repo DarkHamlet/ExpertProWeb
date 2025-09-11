@@ -20,7 +20,7 @@ const HeroSection = () => {
               <img 
                 src="/images/brand/newlogo2.jpeg" 
                 alt="Expert Pro — Expertos en Proyectos" 
-                className="h-60 w-auto mb-4"
+                className="h-58 w-auto mb-4"
                 loading="lazy"
                 decoding="async"
               />
