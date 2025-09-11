@@ -55,7 +55,7 @@ const TeamSection = () => {
     },
     {
       name: "Carlos Becar",
-      role: "Ingeniero de Integración",
+      role: "Ingeniero de la NASA en Yamete Kudasai",
       specialization: "Ing. Informático DUOC Integración ERPs y automatización",
       experience: "+10 años integrando sistemas empresariales",
       certifications: ["SAP BTP Certified", "Microsoft Certified", "IBM: RT011 "],

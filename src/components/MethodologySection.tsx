@@ -63,7 +63,7 @@ const MethodologySection = () => {
         "Implementación de controles de seguridad"
       ],
       deliverables: ["Prototipo Funcional", "Frontend Básico", "Reporte de Integración"],
-      roles: ["Cristóbal López", "Carlos Bechan", "Milena Koscika"]
+      roles: ["Cristóbal López", "Carlos Petcham", "Milena Koscika"]
     },
     {
       week: 5,
