@@ -6,19 +6,19 @@ const TeamSection = () => {
     {
       name: "Eduardo Koffmann",
       role: "Director de Consultoría",
-      specialization: "M.Sc Ing Civil Industrial UC. Experto en APP e IA aplicada, relación con clientes",
+      specialization: "M.Sc. Ing. Civil Industrial PUC. M.Sc. Evaluación y Gest. de Proyectos UAI. Experto en APP e IA aplicada, relación consultiva",
       experience: "+15 años liderando proyectos de transformación digital",
-      certifications: ["PMP®", "CP3P®, IA Development MIT"],
+      certifications: ["PMI: PMP®", "APMG: CP3P®", "MIT: IA Aplicada a la Transformación Digital", "Daxus: Master IA"],
       description: "Lidera el proceso consultivo y la relación estratégica con clientes. Experto en definir el alcance y asegurar el cumplimiento de la propuesta de valor.",
       photo: "/images/team/c4238c16-8094-4108-9c26-75964a6b0a98.png",
       email: "ekoffmann@expertpro.cl"
     },
     {
-      name: " Milena Koscica",
+      name: "Milena Koscica",
       role: "Gestora de Clientes y Administración",
-      specialization: "M.Sc. Ing. Comercial. Master UAI. Coordinación operativa y gestión de proyectos",
-      experience: "+15 años en gestión de proyectos complejos",
-      certifications: ["PMP®", "Agile Certified", "Scrum Master"],
+      specialization: "M.Sc. Ing. Comercial UAI. Coordinación operativa y gestión de proyectos",
+      experience: "+18 años en gestión de proyectos complejos",
+      certifications: ["Agile Certified", "Scrum Master", "UAI: People Managment"],
       description: "Project Manager que coordina el equipo interno y gestiona la comunicación diaria con el cliente, asegurando que los entregables se cumplan en tiempo y forma.",
       photo: "/images/team/086e00d5-f5d6-4a8f-9ca4-f54e25460f10.png",
       email: "mkoscica@expertpro.cl"
@@ -46,7 +46,7 @@ const TeamSection = () => {
     {
       name: "Carlos Flores (Blacklist)",
       role: "Líder de Ciberseguridad y Compliance",
-      specialization: "Ing. Informático IPC. - Seguridad de la información y cumplimiento normativo",
+      specialization: "Ing. Informático IPC. Seguridad de la información y cumplimiento normativo",
       experience: "+18 años en ciberseguridad corporativa",
       certifications: ["CEH", "eJPT", "ISO 27001 Lead Auditor", "LCSPC"],
       description: "Realiza análisis de riesgos de seguridad y privacidad, define controles de seguridad basados en ISO 27001 y asegura el cumplimiento normativo.",
@@ -57,9 +57,9 @@ const TeamSection = () => {
       name: "Carlos Becar",
       role: "Ingeniero de Integración",
       specialization: "Ing. Informático DUOC Integración ERPs y automatización",
-      experience: "+10 años integrando sistemas empresariales",
-      certifications: ["SAP BTP Certified", "Microsoft Certified", "IBM: RT011"],
-      description: "Lidera la integración del piloto de IA con los sistemas existentes del cliente (ERPs, CRMs), asegurando un flujo de datos bidireccional y eficiente.",
+      experience: "+15 años integrando sistemas empresariales",
+      certifications: ["ZAPcademy: SAP HANA, SAP Fiori models, BTP No Code Low Code","Logali: SAP BTP Backend Developer, SAP integration Suite"],
+      description: "Gestión e integración con sistemas existentes del cliente (ERPs, CRMs), asegurando un flujo de datos bidireccional y eficiente.",
       photo: "/images/team/ca491aa2-f179-4232-872c-34d96cd523e8.png",
       email: "cbecar@expertpro.cl"
     },
@@ -67,8 +67,8 @@ const TeamSection = () => {
       name: "Cristóbal López",
       role: "Ingeniero de IA y Automatización",
       specialization: "Ing. Civil USACH. Automatización y robotización",
-      experience: "+8 años desarrollando soluciones de Machine Learning",
-      certifications: ["TensorFlow Certified", "Azure AI Engineer", "Git and Github Profesional"],
+      experience: "+15 años desarrollando automatizaciones y soluciones Cloud",
+      certifications: ["PUC: Automática e informática industrial","Platzi: CI/CD Git GitHub","Daxus: Python, Master IA"],
       description: "Desarrolla el modelo de Machine Learning, implementa los algoritmos de IA y automatiza los procesos de negocio definidos en el alcance del proyecto.",
       photo: "/images/team/99ee97b5-9821-4c15-9984-223c3bfcd3b3.png",
       email: "clopez@expertpro.cl"
