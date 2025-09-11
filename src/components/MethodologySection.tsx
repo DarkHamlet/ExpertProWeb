@@ -18,7 +18,7 @@ const MethodologySection = () => {
         "Definición del backlog inicial del proyecto"
       ],
       deliverables: ["Acta de Kick-Off", "Plan de Proyecto", "Matriz de Riesgos Inicial"],
-      //roles: ["Eduardo Koffmann", "Milena Koscika", "Hamlet Muñoz", "Carlos Flores"]
+      roles: []
     },
     {
       week: 2,
@@ -33,7 +33,7 @@ const MethodologySection = () => {
         "Evaluación inicial de performance"
       ],
       deliverables: ["Informe de Calidad de Datos", "Modelo v0.1", "Reporte EDA"],
-      //roles: ["Hamlet Muñoz", "José Gleiser", "Cristóbal López"]
+      roles: []
     },
     {
       week: 3,
@@ -48,7 +48,7 @@ const MethodologySection = () => {
         "Pruebas de robustez del modelo"
       ],
       deliverables: ["Demo del Modelo v0.2", "Pipeline de Datos", "Resultados Preliminares"],
-      //roles: ["Cristóbal López", "José Gleiser", "Hamlet Muñoz"]
+      roles: []
     },
     {
       week: 4,
@@ -63,7 +63,7 @@ const MethodologySection = () => {
         "Implementación de controles de seguridad"
       ],
       deliverables: ["Prototipo Funcional", "Frontend Básico", "Reporte de Integración"],
-      //roles: ["Cristóbal López", "Carlos Petcham", "Milena Koscika"]
+      roles: []
     },
     {
       week: 5,
@@ -78,7 +78,7 @@ const MethodologySection = () => {
         "Documentación técnica y de usuario"
       ],
       deliverables: ["Sistema Integrado", "Informe de Pruebas", "Auditóría de Seguridad"],
-      roles: ["Carlos Bechan", "Cristóbal López", "Carlos Flores"]
+      roles: []
     },
     {
       week: 6,
@@ -93,7 +93,7 @@ const MethodologySection = () => {
         "Definición de siguientes pasos"
       ],
       deliverables: ["Piloto Funcional", "Manual de Usuario", "Sesión de Capacitación", "Informe Final de Resultados", "Propuesta de Escalamiento"],
-      roles: ["Todo el equipo", "Eduardo Koffmann", "Milena Koscika"]
+      roles: []
     }
   ];
 
