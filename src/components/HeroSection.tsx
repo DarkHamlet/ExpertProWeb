@@ -18,7 +18,7 @@ const HeroSection = () => {
             {/* Logo con Tagline */}
             <div className="flex justify-center lg:justify-start">
               <img 
-                src="/images/brand/newlogo.jpeg" 
+                src="/images/brand/newlogo2.jpeg" 
                 alt="Expert Pro — Expertos en Proyectos" 
                 className="h-64 w-auto mb-4"
                 loading="lazy"
