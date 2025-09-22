@@ -196,7 +196,7 @@ const MethodologySection = () => {
               <div>
                 <h5 className="font-semibold text-slate-900 mb-4 flex items-center">
                   <Users className="w-5 h-5 text-green-600 mr-2" />
-                  Equipo Responsable:
+                  {/*Equipo Responsable:*/}
                 </h5>
                 <div className="flex flex-wrap gap-2">
                   {methodology[activeWeek].roles.map((role, index) => (
