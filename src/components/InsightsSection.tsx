@@ -276,7 +276,7 @@ const InsightsSection = () => {
         <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-slate-50 to-brand-50 rounded-2xl p-8">
             <h3 className="text-2xl font-bold text-slate-900 mb-4">
-              Manténте al Día con los Últimos Insights
+              Mantentе al día con los últimos insights
             </h3>
             <p className="text-slate-600 mb-6 max-w-2xl mx-auto">
               Recibe semanalmente en tu inbox artículos exclusivos, casos de estudio 
